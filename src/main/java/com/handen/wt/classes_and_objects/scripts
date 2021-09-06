@@ -1,0 +1,3 @@
+java -classpath C:\Projects\wt\target\classes com.handen.wt.classes_and_objects.Main
+
+java -jar C:\Projects\wt\out\artifacts\wt_jar\wt.jar

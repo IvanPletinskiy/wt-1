@@ -1,3 +1,5 @@
+package com.handen.wt;
+
 import java.util.Arrays;
 
 public class Task4 {
