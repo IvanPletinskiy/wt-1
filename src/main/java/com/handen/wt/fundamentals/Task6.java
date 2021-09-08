@@ -1,4 +1,4 @@
-package com.handen.wt;
+package com.handen.wt.fundamentals;
 
 public class Task6 {
     public static void main(String[] args) {

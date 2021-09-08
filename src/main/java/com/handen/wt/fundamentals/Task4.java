@@ -1,4 +1,4 @@
-package com.handen.wt;
+package com.handen.wt.fundamentals;
 
 import java.util.Arrays;
 
